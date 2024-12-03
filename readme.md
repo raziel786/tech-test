@@ -1,10 +1,13 @@
 # React Native Tech Test
 
 Installation:
+
+Run the following commands in order:
+
 1) run `yarn`
-2) yarn run postinstall
-3) yarn run pod-install
-4) yarn run ios (or android)
+2) `yarn run postinstall`
+3) `yarn run pod-install`
+4) `yarn run ios` or `yarn run android`
 
 Screenshots:
 
